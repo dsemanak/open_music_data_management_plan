@@ -9,7 +9,7 @@ This subtask feeds into every Work Package of [Open Music Europe](https://openmu
 
 ## Ignored files in .gitignore
 We place a list of folders and files that are ignored for synchronization from the user’s client computer to Github and beyond.  These are usually passwords, login credentials, project management or log files used by your IDE or other work environment.  We by default, excluded all RStudio standards, and usually all Jupiter Notebook standards, and a few Windows/Mac specific files.
-We also ignore a standard folder called `not_included`,  which serves as the place of your personal scrapbook, sandbox, that you do not want to share with anybody.
+We also ignore a standard folder called `not_included/`,  which serves as the place of your personal scrapbook, sandbox, that you do not want to share with anybody.
 
 ## Data folders
 
